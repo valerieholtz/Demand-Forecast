@@ -11,7 +11,7 @@ An approach to Machine Learning with Linear Regression. Through Explorative Data
 
 ### Summary of the OLS Regression results:
 
-<img src="https://user-images.githubusercontent.com/79086000/147234098-c9c9ae68-e0b0-4d4f-aa4d-0cbc272249b1.png" width="600">
+<img src="https://user-images.githubusercontent.com/79086000/147234098-c9c9ae68-e0b0-4d4f-aa4d-0cbc272249b1.png" width="400">
 
 ### Models used:
 - Linear Regression
@@ -21,7 +21,7 @@ An approach to Machine Learning with Linear Regression. Through Explorative Data
 
 The model with the overall pest performance was Ridge with the following scores:
 
-![score](https://user-images.githubusercontent.com/79086000/147234211-34e52884-2a32-44b8-ade5-53266b9220b2.png)
+<img src="https://user-images.githubusercontent.com/79086000/147234211-34e52884-2a32-44b8-ade5-53266b9220b2.png" width="200">
 
 ### Data source
 https://www.kaggle.com/lakshmi25npathi/bike-sharing-dataset
