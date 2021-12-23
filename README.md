@@ -21,10 +21,8 @@ An approach to Machine Learning with Linear Regression. Through Explorative Data
 
 The model with the overall pest performance was Ridge with the following scores:
 
-<img src="https://user-images.githubusercontent.com/79086000/147234211-34e52884-2a32-44b8-ade5-53266b9220b2.png" width="200">
+<img src="https://user-images.githubusercontent.com/79086000/147234211-34e52884-2a32-44b8-ade5-53266b9220b2.png" width="400">
 
-### Data source
-https://www.kaggle.com/lakshmi25npathi/bike-sharing-dataset
 
 ### Tech used:
 - Python
@@ -34,3 +32,6 @@ https://www.kaggle.com/lakshmi25npathi/bike-sharing-dataset
 - Plotly
 - HTML
 - CSS
+
+### Data source
+https://www.kaggle.com/lakshmi25npathi/bike-sharing-dataset
