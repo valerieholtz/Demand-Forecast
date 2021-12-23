@@ -11,7 +11,7 @@ An approach to Machine Learning with Linear Regression. Through Explorative Data
 
 ### Summary of the OLS Regression results:
 
-![OLS](https://user-images.githubusercontent.com/79086000/147234098-c9c9ae68-e0b0-4d4f-aa4d-0cbc272249b1.png)
+<img src="https://user-images.githubusercontent.com/79086000/147234098-c9c9ae68-e0b0-4d4f-aa4d-0cbc272249b1.png" width="600">
 
 ### Models used:
 - Linear Regression
