@@ -1,6 +1,6 @@
 # Demand-Forecast
 
-Machine Learning based dashboard using a Linear Regression model for predicting demand for bike rentals in the Capital Bikeshare program in Washington, D.C.
+Machine Learning based dashboard using a Linear Regression model to predict demand for bike rentals in the Capital Bikeshare program in Washington, D.C.
 
 <img src="https://user-images.githubusercontent.com/79086000/147233912-b99a40be-476f-4965-a8f7-8b1c77f6ce36.gif">
 
