@@ -4,7 +4,7 @@ Machine Learning based dashboard using a Linear Regression model to predict dema
 
 <img src="https://user-images.githubusercontent.com/79086000/147233912-b99a40be-476f-4965-a8f7-8b1c77f6ce36.gif">
 
-An approach to Machine Learning with Linear Regression
+### An approach to Machine Learning with Linear Regression
 - *Explorative Data Analysis* and *Feature Engineering* to construct a robust models to estimate number of bike rentals
 - *OLS* and *Recursive Feature Elimination* to pick the best features for the Linear model
 - *GridSearchCV* to attain the best fitting model and parameters
