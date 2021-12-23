@@ -4,9 +4,12 @@ Machine Learning based dashboard using a Linear Regression model for predicting 
 
 <img src="https://user-images.githubusercontent.com/79086000/147233912-b99a40be-476f-4965-a8f7-8b1c77f6ce36.gif">
 
-An approach to Machine Learning with Linear Regression. Through Explorative Data Analysis and Feature Engineering I was able to construct robust models to estimate number of bike rentals. OLS and Recursive Feature Elimination was used to pick the best features for the Linear model. GridSearchCV was used to attain the best fitting model and parameters.
+### An approach to Machine Learning with Linear Regression:
+- *Explorative Data Analysis* and *Feature Engineering* to construct a robust models to estimate number of bike rentals
+- *OLS* and *Recursive Feature Elimination* to pick the best features for the Linear model
+- *GridSearchCV* to attain the best fitting model and parameters
 
-### Guideline questions for the EDA
+### Guideline questions for the EDA:
 - Which weather conditions and time criteria impact registered users to use bike sharing company's rental bicycles as registered users?
 
 ### Summary of the OLS Regression results:
@@ -19,7 +22,7 @@ An approach to Machine Learning with Linear Regression. Through Explorative Data
 - Ridge
 - Lasso
 
-The model with the overall pest performance was Ridge with the following scores:
+#### The model with the overall pest performance was Ridge with the following scores:
 
 <img src="https://user-images.githubusercontent.com/79086000/147234211-34e52884-2a32-44b8-ade5-53266b9220b2.png" width="400">
 
