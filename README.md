@@ -2,6 +2,9 @@
 
 Machine Learning based dashboard using a Linear Regression model for predicting demand for bike rentals in the Capital Bikeshare program in Washington, D.C.
 
+<img src="https://user-images.githubusercontent.com/79086000/147233912-b99a40be-476f-4965-a8f7-8b1c77f6ce36.gif">
+
+
 ![Dashboard](https://user-images.githubusercontent.com/79086000/147233912-b99a40be-476f-4965-a8f7-8b1c77f6ce36.gif)
 
 An approach to Machine Learning with Linear Regression. Through Explorative Data Analysis and Feature Engineering I was able to construct robust models to estimate number of bike rentals. OLS and Recursive Feature Elimination was used to pick the best features for the Linear model. GridSearchCV was used to attain the best fitting model and parameters.
